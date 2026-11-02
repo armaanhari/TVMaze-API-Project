@@ -1,2 +1,0 @@
-# TVMaze API Project
-TVMaze
